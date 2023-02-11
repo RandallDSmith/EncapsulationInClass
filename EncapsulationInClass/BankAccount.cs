@@ -17,7 +17,7 @@ namespace EncapsulationInClass
 
         public double GetBalance()
         {
-            return balance;  
+            return balance;
         }
 
         public void Withdraw(double amount)
